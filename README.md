@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=public-void-ryan" alt="public-void-ryan" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering at SCSU**
-
-- 📫 How to reach me **ryanfransenpruden@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-fransen-pruden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-fransen-pruden" height="30" width="40" /></a>
