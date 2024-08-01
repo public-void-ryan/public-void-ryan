@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan Fransen-Pruden</h1>
 <h3 align="center">A passionate Software Engineer from the Midwest</h3>
 
-- 🔭 I’m currently working at **eMoney Advisor**
+- 🔭 I’m currently working in **FinTech**
 
-- 🌱 I’m currently learning **Software Engineering at SCSU**
+- 🌱 I’m currently majoring in **Software Engineering at Saint Cloud State University**
 
 - 📫 How to reach me **ryanfransenpruden@gmail.com**
 
