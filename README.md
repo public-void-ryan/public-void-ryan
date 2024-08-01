@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Fransen-Pruden</h1>
 <h3 align="center">A passionate Software Engineer from the Midwest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=public-void-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="public-void-ryan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=public-void-ryan" alt="public-void-ryan" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering at SCSU**
 - 
 <h3 align="left">Connect with me:</h3>
