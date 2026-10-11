@@ -2,7 +2,7 @@
 
 **Software Engineer** · QA Automation · FinTech
 
-I build test automation and infrastructure tooling at eMoney Advisor. I also run a NixOS homelab as a side project.
+I build test automation and infrastructure tooling. I also run a NixOS homelab as a side project.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ryanfp.dev-00d084)](https://ryanfp.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryan--fransen--pruden-blue?logo=linkedin)](https://linkedin.com/in/ryan-fransen-pruden)
@@ -23,4 +23,4 @@ I build test automation and infrastructure tooling at eMoney Advisor. I also run
 
 ## Education
 
-B.S. Software Engineering, St. Cloud State University (2026)
+B.S. Software Engineering, St. Cloud State University
